@@ -6,7 +6,7 @@ entries:
     created: "2023-09-04T13:56:09.617679289+05:30"
     description: A Helm chart for Spark on Kubernetes operator
     digest: 5aee984d615606eb2550e07f699be482be759049c9061ad8f67f25e0fc348e72
-    home: https://source.developers.google.com/p/kyvos-impetus/r/mygkespark-repo
+    home: https://github.com/mkhare55/spark-ops
     keywords:
     - spark
     maintainers:
@@ -14,6 +14,6 @@ entries:
       name: yuchaoran2011
     name: spark-operator
     urls:
-    - https://source.developers.google.com/p/kyvos-impetus/r/mygkespark-repo/spark-operator-1.1.27.tgz
+    - https://github.com/mkhare55/spark-ops/spark-operator-1.1.27.tgz
     version: 1.1.27
 generated: "2023-09-04T13:56:09.608261395+05:30"
